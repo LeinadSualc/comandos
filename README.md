@@ -3,5 +3,6 @@
 <strong> Criar projeto laravel -</strong>
   composer create-project laravel/laravel nomeprojeto
  <br>
+ <br>
 <strong> Gerar uma model e uma migration -</strong>
 php artisan make:model Nomemodel -m
