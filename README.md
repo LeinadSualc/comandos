@@ -6,3 +6,7 @@
  <br>
 <strong> Gerar uma model e uma migration -</strong>
 php artisan make:model Nomemodel -m
+ <br>
+ <br>
+ <strong>Subir a migration -</strong>
+ php artisan migrate
