@@ -10,3 +10,7 @@ php artisan make:model Nomemodel -m
  <br>
  <strong>Subir a migration -</strong>
  php artisan migrate
+ <br>
+ <br>
+ <strong>Criar uma migrate -</strong>
+php artisan make:controller NameController
