@@ -14,3 +14,8 @@ php artisan make:model Nomemodel -m
  <br>
  <strong>Criar uma Controller -</strong>
 php artisan make:controller NameController
+<br>
+<br>
+ <strong>Iniciar/Subir o projeto -</strong>
+php artisan serve
+
