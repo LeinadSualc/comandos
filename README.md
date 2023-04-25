@@ -12,5 +12,5 @@ php artisan make:model Nomemodel -m
  php artisan migrate
  <br>
  <br>
- <strong>Criar uma migrate -</strong>
+ <strong>Criar uma Controller -</strong>
 php artisan make:controller NameController
