@@ -18,4 +18,8 @@ php artisan make:controller NameController
 <br>
  <strong>Iniciar/Subir o projeto -</strong>
 php artisan serve
+ <strong>Instalar dependências -</strong>
+<br>
+<br>
+ composer install
 
